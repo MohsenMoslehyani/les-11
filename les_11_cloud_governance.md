@@ -1,7 +1,7 @@
 # Cloud Governance & Platform
 ## Microsoft Cloud Adoption Framework (CAF)
-
 ![alt text](caf-overview.png)
+*Microsoft Azure Cloud Adoption Framework*
 
 ### Introductie
 Cloud computing maakt het voor organisaties relatief eenvoudig om snel nieuwe IT‑diensten te ontwikkelen en te gebruiken. Een proof‑of‑concept is zo opgezet, een applicatie is snel uitgerold en teams kunnen vrijwel direct aan de slag. Maar zodra de cloud structureel wordt ingezet, ontstaan er nieuwe risico’s. Denk aan onverwachte kosten, onduidelijk eigenaarschap, beveiligingsproblemen of vragen van auditors en het management. Precies op dat punt komt **cloud governance** in beeld.

@@ -123,3 +123,5 @@ Bronnen (Microsoft Cloud Adoption Framework / Azure Landing Zones)
 12) Microsoft. (z.d.). Uw cloudomgeving veilig beheren (Secure: govern). 
     https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/secure/govern
 
+## Link naar online (Github) omgeving
+   Link naar onine omgevnig: https://github.com/MohsenMoslehyani/les-11/blob/main/les_11_cloud_governance.md

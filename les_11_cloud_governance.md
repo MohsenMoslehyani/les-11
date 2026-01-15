@@ -85,7 +85,41 @@ Voor organisaties die Azure gebruiken, is CAF een logische keuze. Het framework 
 ---
 
 ### Bronnen
-- Microsoft Cloud Adoption Framework documentatie  (https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/overview)
-- Microsoft Learn – Cloud Governance  
-- College slides Les 11 – Cloud Governance Frameworks
+Bronnen (Microsoft Cloud Adoption Framework / Azure Landing Zones)
+
+1) Microsoft. (z.d.). Wat is het Microsoft Cloud Adoption Framework? 
+   https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/overview
+
+2) Microsoft. (z.d.). Microsoft Cloud Adoption Framework (startpagina). 
+   https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/
+
+3) Microsoft. (z.d.). Een team voor cloudgovernance maken. 
+   https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/govern/build-cloud-governance-team
+
+4) Microsoft. (z.d.). Governance instellen in Azure (Azure setup guide: governance & compliance). 
+   https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/ready/azure-setup-guide/governance-compliance
+
+5) Microsoft. (z.d.). Ontwerpgebied voor Azure-governance (Landing zone design area: Governance). 
+   https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/ready/landing-zone/design-area/governance
+
+6) Microsoft. (z.d.). Geavanceerd Azure Policy-beheer (Enterprise policy as code). 
+   https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/ready/policy-management/enterprise-policy-as-code
+
+7) Microsoft. (z.d.). Wat is een Azure-landingszone? 
+   https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/ready/landing-zone/
+
+8) Microsoft. (z.d.). Governance voor landingzones verbeteren (best practices/overwegingen). 
+   https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/ready/considerations/landing-zone-governance
+
+9) Microsoft. (z.d.). Track costs across business units, environments, or projects (CAF best practices). 
+   https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/track-costs
+
+10) Microsoft. (z.d.). Manage costs and billing for your Azure resources (CAF setup guide: manage costs). 
+    https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/manage-costs
+
+11) Microsoft. (z.d.). Uw Azure-cloudomgeving beheren (Manage methodology: administer). 
+    https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/manage/administer
+
+12) Microsoft. (z.d.). Uw cloudomgeving veilig beheren (Secure: govern). 
+    https://learn.microsoft.com/nl-nl/azure/cloud-adoption-framework/secure/govern
 
